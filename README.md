@@ -10,3 +10,9 @@
 
 ![My scrin 2](http://dl4.joxi.net/drive/2023/11/19/0055/3282/3628242/42/73867dd4a2.jpg)
 
+## _Задание 2._ 
+
+1. Установка и путь OneScript
+   
+![My scrin 3](http://dl4.joxi.net/drive/2023/11/19/0055/3282/3628242/42/5d06a5a976.jpg)
+
